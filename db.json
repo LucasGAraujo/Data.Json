@@ -1,9 +1,92 @@
-{
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+{"Filmes":[
+  {
+    "id": "1",
+    "image": "../components/image/Amor.webp",
+    "title": "Amor de Aluguel",
+    "local": "Plaza niteroi",
+    "horario": "15:30",
+    "diretor": "Lucao",
+    "classificacao":"12",
+    "tipo": "Romance",
+    "ano": "2007"
+  },
+  {
+    "id": "2",
+     "image": "../components/image/007.jpg",
+    "title": "007",
+    "local": "Plaza niteroi",
+    "horario": "15:50",
+    "diretor": "Lucao",
+     "classificacao":"12",
+    "tipo": "Ação",
+    "ano": "1998"
+
+  },
+  {
+    "id": "3",
+    "image": "../components/image/PELE.jpg",
+    "title": "Filme do Pelé",
+    "local": "Plaza niteroi",
+    "horario": "19:30",
+    "diretor": "Lucao",
+    "classificacao":"12",
+    "tipo": "Futebol",
+    "ano": "1994"
+  },
+  {
+    "id": "4",
+     "image": "../components/image/Veloz.webp",
+    "title": "Velozes e Furiosos 9",
+    "local": "Plaza niteroi",
+    "horario": "23:30",
+    "diretor": "Lucao",
+    "classificacao":"16",
+    "tipo": "Ação",
+    "ano": "2020"
+  },
+  {
+    "id": "5",
+     "image": "../components/image/gato-de-botas-2.jpg",
+    "title": "Gato de Botas 2",
+    "local": "Plaza niteroi",
+    "horario": "14:30",
+    "diretor": "Lucao",
+    "classificacao":"10",
+    "tipo": "Ação",
+    "ano": "2022"
+  },
+  {
+    "id": "6",
+     "image": "../components/image/107296g.jpg",
+    "title": "Pequena Sereia",
+    "local": "Plaza niteroi",
+    "horario": "11:30",
+    "diretor": "Lucao",
+    "classificacao":"12",
+    "tipo": "Infantil",
+    "ano": "2023"
+  },
+   {
+    "id": "7",
+     "image": "../components/image/corra.jpg",
+    "title": "Corra",
+    "local": "Plaza niteroi",
+    "horario": "18:30",
+    "diretor": "Lucao",
+    "classificacao":"18",
+    "tipo": "Suspense",
+    "ano": "2019"
+  },
+   {
+    "id": "8",
+     "image": "../components/image/guard.jpg",
+    "title": "Guardião da Galaxia",
+    "local": "Plaza niteroi",
+    "horario": "20:30",
+    "diretor": "Lucao",
+    "classificacao":"14",
+    "tipo": "Ação",
+    "ano": "2023"
+  }
+]
 }
